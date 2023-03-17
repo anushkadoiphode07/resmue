@@ -112,6 +112,13 @@ hr
     margin: auto;
     
 }
+.line
+{
+    padding:5px;
+    line-height: 2;
+    font-family: 'Merriweather',serif;
+}
+    
 .middle-container
 {
   background-color: #ECF2FF;  
